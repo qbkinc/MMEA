@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MMEA/static/css/main.e6c13ad2.css",
-    "main.js": "/MMEA/static/js/main.3768fc90.js",
+    "main.js": "/MMEA/static/js/main.b0264555.js",
     "static/js/453.9d10192d.chunk.js": "/MMEA/static/js/453.9d10192d.chunk.js",
     "index.html": "/MMEA/index.html",
     "main.e6c13ad2.css.map": "/MMEA/static/css/main.e6c13ad2.css.map",
-    "main.3768fc90.js.map": "/MMEA/static/js/main.3768fc90.js.map",
+    "main.b0264555.js.map": "/MMEA/static/js/main.b0264555.js.map",
     "453.9d10192d.chunk.js.map": "/MMEA/static/js/453.9d10192d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.3768fc90.js"
+    "static/js/main.b0264555.js"
   ]
 }
